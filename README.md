@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Elvis Huayhua 👋</h1>
 
 <p align="center">
-Soy un profesional de 28 años de Lima, Perú 🇵🇪, con experiencia en <strong>finanzas, control de gestión</strong> y <strong>análisis de datos</strong> para proyectos inmobiliarios y comerciales. Apasionado por los datos, la eficiencia y la toma de decisiones estratégicas.
+Soy un profesional de 29 años de Lima, Perú 🇵🇪, con experiencia en <strong>finanzas, control de gestión</strong> y <strong>análisis de datos</strong> para proyectos inmobiliarios y comerciales. Apasionado por los datos, la eficiencia y la toma de decisiones estratégicas.
 </p>
 
 ---
@@ -40,8 +40,8 @@ Soy un profesional de 28 años de Lima, Perú 🇵🇪, con experiencia en <stro
 
 ### 📫 ¿Hablamos?
 
-📧 **Correo:** tuemail@email.com  
-📱 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+📧 **Correo:** elvisrobertohp22@gmail.com  
+📱 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/elvisrobertohuayhua)  
 🌐 **Portafolio / CV:** *(agrega tu link si tienes uno)*
 
 ---
